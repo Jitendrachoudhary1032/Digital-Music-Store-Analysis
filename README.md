@@ -13,5 +13,4 @@ The Queries I have solved in this project using different interconnected tables 
 6) Return all the track names that have a song length longer than the average song length.
 7) Write query to return the email, first name, last name, & Genre of all Rock Music listeners and sort by email
 
-
 The project demonstrates my proficiency in SQL and data analysis, showcasing my ability to extract meaningful information from complex databases and contribute to data-driven decision-making processes.
